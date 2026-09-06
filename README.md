@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
