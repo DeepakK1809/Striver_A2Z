@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
