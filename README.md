@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0493-reverse-pairs) |
+| [0724-find-pivot-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0875-koko-eating-bananas) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
