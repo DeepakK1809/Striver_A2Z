@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3498-reverse-degree-of-a-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0724-find-pivot-index) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
