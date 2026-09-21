@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0493-reverse-pairs) |
 | [0724-find-pivot-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Indexed Tree
 |  |
 | ------- |
