@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
 | ------- |
