@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0152-maximum-product-subarray) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0018-4sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Prefix Sum
 |  |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
