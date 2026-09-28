@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
