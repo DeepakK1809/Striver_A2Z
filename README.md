@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
