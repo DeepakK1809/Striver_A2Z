@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0152-maximum-product-subarray) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -155,5 +157,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
