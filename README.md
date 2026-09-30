@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
+| [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
