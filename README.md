@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0125-valid-palindrome) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0125-valid-palindrome) |
 | [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3498-reverse-degree-of-a-string) |
