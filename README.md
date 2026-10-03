@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0493-reverse-pairs) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0189-rotate-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
