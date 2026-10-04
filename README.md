@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Linked List
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0125-valid-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3498-reverse-degree-of-a-string) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
@@ -184,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
