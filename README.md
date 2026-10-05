@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0128-longest-consecutive-sequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0078-subsets) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0078-subsets) |
 ## Greedy
 |  |
 | ------- |
