@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1544-make-the-string-great](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -188,9 +189,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
