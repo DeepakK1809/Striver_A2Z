@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
