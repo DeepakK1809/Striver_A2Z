@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0078-subsets) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0678-valid-parenthesis-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
