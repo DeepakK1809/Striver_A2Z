@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0414-third-maximum-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
