@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/1512-number-of-good-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,10 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/DeepakK1809/Striver_A2Z/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeepakK1809/Striver_A2Z/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
